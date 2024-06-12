@@ -1,0 +1,12 @@
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/priyasmaf123/test.git
+git push -u origin main
+
+
+1. https://meadev.maf.ae/jenkins/job/MyHub/job/Middleware/job/PROD/
+2. https://meadev.maf.ae/jenkins/job/MyHub/job/ETL/job/DEV/
+3. https://meadev.maf.ae/jenkins/job/MyHub/job/ETL/job/PROD/
