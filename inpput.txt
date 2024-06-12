@@ -11,5 +11,3 @@ git push -u origin main
 2. https://meadev.maf.ae/jenkins/job/MyHub/job/ETL/job/DEV/
 3. https://meadev.maf.ae/jenkins/job/MyHub/job/ETL/job/PROD/
 
-
- 2%_MfD48Ipa*
